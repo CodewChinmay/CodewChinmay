@@ -29,6 +29,6 @@ Currently learning Linux, DevOps, and server deployment.
 ![Stats](https://github-readme-stats.vercel.app/api?username=CodewChinmay&show_icons=true&theme=dark)
 
 ## 📫 Connect With Me
-- LinkedIn: [your link]
-- Portfolio: [your link]
-- Email: your@email.com
+- LinkedIn: https://www.linkedin.com/in/chinmay-ingale-2ab424329/
+- Portfolio: coming soon
+- Email: ingalechinmay318@gmail.com
