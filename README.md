@@ -25,8 +25,7 @@ Currently learning Linux, DevOps, and server deployment.
 - **[Project 1](link)**: short description and live demo
 - **[Project 2](link)**: short description and live demo
 
-## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=CodewChinmay&show_icons=true&theme=dark)
+
 
 ## 📫 Connect With Me
 - LinkedIn: https://www.linkedin.com/in/chinmay-ingale-2ab424329/
